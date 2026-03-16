@@ -1,3 +1,5 @@
+<img src="glyph-quorum.png" width="72" alt="Glyph Quorum icon">
+
 # Glyph Quorum
 
 Real-time collaborative Typst editor. Multiple people edit the same document simultaneously, see each other's cursors, leave comments, and compile to PDF — all in the browser.

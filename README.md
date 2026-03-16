@@ -76,6 +76,14 @@ Then restart the server.
 
 Or re-run the one-line installer — it detects the existing directory and updates it in place.
 
+## Related
+
+| | |
+|---|---|
+| **[Glyph](https://github.com/XWBarton/glyph)** | Local desktop editor for macOS — offline, single-user, no server needed |
+
+---
+
 ## Development
 
 ```bash
